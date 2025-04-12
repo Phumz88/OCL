@@ -1,0 +1,130 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 09 Apr 2025 18:32:51 at https://okkellmaks/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+okkellmaks
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.bestpickloans.co.za/ -O1 "C:\My Web Sites\Katlego2" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+
+
+Information, Warnings and Errors reported for this mirror:
+
+note:	the hts-log.txt file, and hts-cokkellmaksn sensitive information,
+okkellmaks
+	such as username/password authentication for websites mirrored in this projectokkellmaks
+okkellmaks
+	do not share these files/folders if you want these information to remain privateokkellmaks
+okkellmaks
+okkellmaks
+okkellmaks
+18:32:54	Warning: 	Found for https://www.bestpickloans.co.za/okkellmaks
+okkellmaks
+18:32:54	Warning: 	File has moved from https://www.okkellmaks ./home/okkellmaks
+okkellmaksokkellmaks
+18:34:28	Error: 	"Forbidden" (403) at link https://okkellmaksblic/e/6/7/e6783750-cbb3-4fd7-9b6a-548038000f66_large/joyfuokkellmakskcake.jpg (from https://www.bestpickloans.co.za/home/)
+okkellmaksokkellmaks
+18:34:28	Error: 	"Forbidden" (403) at link https://okkellmaksblic/e/7/4/e749da7a-f83b-4f7b-b04d-2325809a877a_large/joyfuokkellmaksckcake.jpg (from https://www.bestpickloans.co.za/home/)
+okkellmaksokkellmaks
+18:34:29	Error: 	"Forbidden" (403) at link https://okkellmaksblic/b/a/4/ba430ddd-4f88-4284-9fd3-c2c94af5okkellmaks-stockcake.jpg (from https://www.bestpickloans.co.za/home/)
+okkellmaksokkellmaks
+18:34:29	Error: 	"Forbidden" (403) at link https://okkellmaksblic/8/2/4/824eb313-88cb-442b-99ef-d8039okkellmaksh-connection-stockcake.jpg (from https://www.bestpickloans.co.za/home/)
+okkellmaksokkellmaks
+18:34:29	Error: 	"Forbidden" (403) at link https://okkellmaksblic/5/2/b/52b37bd8-9945-4f82-91b1-adf06okkellmaksusiness-lunch-stockcake.jpg (from https://www.bestpickloans.co.za/home/)
+okkellmaksokkellmaks
+18:34:29	Error: 	"Forbidden" (403) at link https://okkellmaksblic/4/c/2/4c2a951e-7162-449e-8e75-3069okkellmaksome-sold-stockcake.jpg (from https://www.bestpickloans.co.za/home/)
+okkellmaksokkellmaks
+18:34:29	Error: 	"Forbidden" (403) at link https://okkellmaksblic/7/2/1/72177592-a7b3-48e7-9449-0e32b2okkellmaks-cafe-stockcake.jpg (from https://www.bestpickloans.co.za/home/)
+okkellmaksokkellmaks
+18:34:29	Error: 	"Forbidden" (403) at link https://okkellmaksblic/f/e/a/feaabe9b-fa23-400d-a8e7-882265okkellmaksboration-space-stockcake.jpg (from https://www.bestpickloans.co.za/home/)
+okkellmaksokkellmaks
+18:34:29	Error: 	"Not Found" (404) at link https://okkellmaks/home/css/images/ui-icons_444444_256x240okkellmaksbestpickloans.co.za/home/css/jquery-ui.min.css)
+okkellmaksokkellmaks
+18:34:29	Error: 	"Not Found" (404) at link https://okkellmaks/home/css/images/ui-icons_555555_256x24okkellmaks.bestpickloans.co.za/home/css/jquery-ui.min.css)
+okkellmaksokkellmaks
+18:34:29	Error: 	"Not Found" (404) at link https://okkellmaks/home/css/images/ui-icons_ffffff_256x24okkellmaks.bestpickloans.co.za/home/css/jquery-ui.min.css)
+okkellmaksokkellmaks
+18:34:29	Error: 	"Not Found" (404) at link https://okkellmaks/home/css/images/ui-icons_777620_256x2okkellmaksw.bestpickloans.co.za/home/css/jquery-ui.min.css)
+okkellmaksokkellmaks
+18:34:29	Error: 	"Not Found" (404) at link https://okkellmaks/home/css/images/ui-icons_cc0000_2okkellmaks//www.bestpickloans.co.za/home/css/jquery-ui.min.css)
+okkellmaksokkellmaks
+18:34:29	Error: 	"Not Found" (404) at link https://okkellmaks/home/css/images/ui-icons_777777_256x240.okkellmaksestpickloans.co.za/home/css/jquery-ui.min.css)
+okkellmaksokkellmaks
+18:34:29	Error: 	"Not Found" (404) at link https://okkellmaks/home/css/owl.video.play.png (from httpokkellmakso.za/home/css/owl.carousel.min.css)
+okkellmaksokkellmaks
+18:34:29	Error: 	"Not Found" (404) at link https://okkellmaks/fonts/fa-brands-400.eot (from httpsokkellmaks.za/home/plugins.css)
+okkellmaksokkellmaks
+18:34:29	Error: 	"Not Found" (404) at link https://okkellmaks/fonts/fa-brands-400.eot? (from https://okkellmaks/home/plugins.css)
+okkellmaksokkellmaks
+18:34:29	Error: 	"Not Found" (404) at link https://okkellmaks/fonts/fa-brands-400.woff2 (from https://wokkellmakshome/plugins.css)
+okkellmaksokkellmaks
+18:34:29	Error: 	"Not Found" (404) at link https://okkellmaks/fonts/fa-brands-400.woff (from https://www.bestpokkellmaksgins.css)
+okkellmaks
+18:34:29	Error: 	"Not Found" (404) at link https://www.bestpickloans.co.za/fonts/fa-brands-400.ttf (from https://www.bestpickloans.co.za/home/plugins.css)okkellmaks
+okkellmaks
+18:34:29	Error: 	"Not Found" (404) at link https://www.bestpickloans.co.za/fonts/fa-brands-400.svg (from https://www.bestpickloans.co.za/home/plugins.css)okkellmaks
+okkellmaks
+18:34:29	Error: 	"Not Found" (404) at link https://www.bestpickloans.co.za/fonts/fa-regular-400.eot (from https://www.bestpickloans.co.za/home/plugins.css)
+
+18:34:29	Error: 	"Not Found" (404) at link https://www.bestpickloans.co.za/fonts/fa-regular-400.eot? (from https://www.bestpickloans.co.za/home/plugins.css)
+
+18:34:29	Error: 	"Not Found" (404) at link https://www.bestpickloans.co.za/fonts/fa-regular-400.woff2 (from https://www.bestpickloans.co.za/home/plugins.css)
+
+18:34:29	Error: 	"Not Found" (404) at link https://www.bestpickloans.co.za/fonts/fa-regular-400.woff (from https://www.bestpickloans.co.za/home/plugins.css)
+
+18:34:29	Error: 	"Not Found" (404) at link https://www.bestpickloans.co.za/fonts/fa-regular-400.ttf (from https://www.bestpickloans.co.za/home/plugins.css)
+
+18:34:29	Error: 	"Not Found" (404) at link https://www.bestpickloans.co.za/fonts/fa-regular-400.svg (from https://www.bestpickloans.co.za/home/plugins.css)
+
+18:34:29	Error: 	"Not Found" (404) at link https://www.bestpickloans.co.za/fonts/fa-solid-900.eot (from https://www.bestpickloans.co.za/home/plugins.css)
+
+18:34:29	Error: 	"Not Found" (404) at link https://www.bestpickloans.co.za/fonts/fa-solid-900.eot? (from https://www.bestpickloans.co.za/home/plugins.css)
+
+18:34:29	Error: 	"Not Found" (404) at link https://www.bestpickloans.co.za/fonts/fa-solid-900.woff2 (from https://www.bestpickloans.co.za/home/plugins.css)
+
+18:34:29	Error: 	"Not Found" (404) at link https://www.bestpickloans.co.za/fonts/fa-solid-900.woff (from https://www.bestpickloans.co.za/home/plugins.css)
+
+18:34:29	Error: 	"Not Found" (404) at link https://www.bestpickloans.co.za/fonts/fa-solid-900.ttf (from https://www.bestpickloans.co.za/home/plugins.css)
+
+18:34:29	Error: 	"Not Found" (404) at link https://www.bestpickloans.co.za/fonts/fa-solid-900.svg (from https://www.bestpickloans.co.za/home/plugins.css)
+
+18:34:29	Error: 	"Not Found" (404) at link https://www.bestpickloans.co.za/fonts/themify.eot?-fvbane (from https://www.bestpickloans.co.za/home/plugins.css)
+
+18:34:29	Error: 	"Not Found" (404) at link https://www.bestpickloans.co.za/fonts/themify.eot? (from https://www.bestpickloans.co.za/home/plugins.css)
+
+18:34:29	Error: 	"Not Found" (404) at link https://www.bestpickloans.co.za/fonts/themify.woff?-fvbane (from https://www.bestpickloans.co.za/home/plugins.css)
+
+18:34:29	Error: 	"Not Found" (404) at link https://www.bestpickloans.co.za/fonts/themify.ttf?-fvbane (from https://www.bestpickloans.co.za/home/plugins.css)
+
+18:34:29	Error: 	"Not Found" (404) at link https://www.bestpickloans.co.za/fonts/themify.svg?-fvbane (from https://www.bestpickloans.co.za/home/plugins.css)
+
+18:34:29	Error: 	"Not Found" (404) at link https://www.bestpickloans.co.za/home/owl.video.play.png (from https://www.bestpickloans.co.za/home/plugins.css)
+
+18:34:29	Error: 	"Not Found" (404) at link https://www.bestpickloans.co.za/fonts/lg.ttf?22t19m (from https://www.bestpickloans.co.za/home/plugins.css)
+
+18:34:29	Error: 	"Not Found" (404) at link https://www.bestpickloans.co.za/fonts/lg.woff?22t19m (from https://www.bestpickloans.co.za/home/plugins.css)
+
+18:34:29	Error: 	"Not Found" (404) at link https://www.bestpickloans.co.za/fonts/lg.svg?22t19m (from https://www.bestpickloans.co.za/home/plugins.css)
+
+18:34:29	Error: 	"Not Found" (404) at link https://www.bestpickloans.co.za/img/icons/vimeo-play.png (from https://www.bestpickloans.co.za/home/plugins.css)
+
+18:34:29	Error: 	"Not Found" (404) at link https://www.bestpickloans.co.za/img/icons/video-play.png (from https://www.bestpickloans.co.za/home/plugins.css)
+
+18:34:29	Error: 	"Not Found" (404) at link https://www.bestpickloans.co.za/img/icons/youtube-play.png (from https://www.bestpickloans.co.za/home/plugins.css)
+
+18:34:29	Error: 	"Not Found" (404) at link https://www.bestpickloans.co.za/img/content/loading.gif (from https://www.bestpickloans.co.za/home/plugins.css)
+
+18:34:30	Error: 	"Not Found" (404) at link https://www.bestpickloans.co.za/home/style2/img/bg-breadcrumb.jpg (from https://www.bestpickloans.co.za/home/style2/css/style.css)
+
+18:34:30	Error: 	"Forbidden" (403) at link https://images.stockcake.com/public/2/1/e/21eaabe7-21ac-4ac8-a3fa-cfe0e88abf3c_large/confident-business-leader-stockcake.jpg (from https://www.bestpickloans.co.za/home/about.php)
+
+18:34:30	Error: 	"Forbidden" (403) at link https://images.stockcake.com/public/e/b/9/eb9ee7ad-561f-4d3c-be5d-3de5ca7183dc_large/confident-professional-woman-stockcake.jpg (from https://www.bestpickloans.co.za/home/about.php)
+
+18:34:30	Error: 	"Forbidden" (403) at link https://images.stockcake.com/public/f/f/d/ffd05cfa-5696-4981-b4f5-6f6b352ae6dc_large/confident-business-leader-stockcake.jpg (from https://www.bestpickloans.co.za/home/about.php)
+
+18:34:30	Error: 	"Forbidden" (403) at link https://images.stockcake.com/public/d/7/d/d7d8c1c4-0a19-4af0-ba39-c0a8a9ae0724_large/confident-business-professional-stockcake.jpg (from https://www.bestpickloans.co.za/home/about.php)
+
+18:34:30	Error: 	"Forbidden" (403) at link https://images.stockcake.com/public/2/1/8/218f444b-d164-43af-a34e-9cfe3edfb0ff_large/smiling-professional-man-stockcake.jpg (from https://www.bestpickloans.co.za/home/about.php)
+
+
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 40 seconds : 166 links scanned, 111 files written (9056789 bytes overall) [4500690 bytes received at 45006 bytes/sec], 6625943 bytes transferred using HTTP compression in 81 files, ratio 26%, 3.6 requests per connection
+
+(52 errors, 2 warnings, 0 messages)
+
